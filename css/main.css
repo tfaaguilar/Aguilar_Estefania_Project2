@@ -1,0 +1,12 @@
+.hidden { display: none;}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.box-color {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
