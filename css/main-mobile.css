@@ -1,0 +1,26 @@
+/*
+    CSS Guide
+    1. General Styles
+    2. Grid
+    3. Header
+    4. Main Hero Image
+    5. Features
+    6. News
+    7. Visit us
+    8. Footer
+*/
+
+/* 1. General Styles */
+.hidden { display: none;}
+
+body {
+    font-family: 'comfortaa', arial, sans-serif;
+    font-size: 15px;
+    text-align: justify;
+    
+}
+
+.container {
+    width: 375px;
+    margin: 0 auto;
+}
